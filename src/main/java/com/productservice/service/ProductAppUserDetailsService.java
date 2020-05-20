@@ -11,7 +11,6 @@ import org.springframework.stereotype.Service;
 import com.productservice.entity.User;
 import com.productservice.repo.ProductRepo;
 import com.productservice.repo.UserRepo;
-
 @Service
 public class ProductAppUserDetailsService implements UserDetailsService{
 

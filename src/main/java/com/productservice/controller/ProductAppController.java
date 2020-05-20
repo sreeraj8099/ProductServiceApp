@@ -15,7 +15,6 @@ import com.productservice.entity.Product;
 import com.productservice.repo.ProductRepo;
 import com.productservice.response.DbConfigInfo;
 
-
 @RestController
 public class ProductAppController {
 

@@ -1,7 +1,7 @@
 # ProductServiceApp
 Securing API endpoints using spring security Basic authentication and authorization
 
-## Built With
+## Built With 
 
 * 	[Maven](https://maven.apache.org/) - Dependency Management
 * 	[Flyway](https://flywaydb.org/) - Version control for database

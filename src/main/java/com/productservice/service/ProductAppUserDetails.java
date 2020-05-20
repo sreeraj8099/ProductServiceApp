@@ -11,7 +11,6 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Component;
 
 import com.productservice.entity.User;
-
 public class ProductAppUserDetails implements UserDetails{
 	
 	private static final long serialVersionUID = 1L;

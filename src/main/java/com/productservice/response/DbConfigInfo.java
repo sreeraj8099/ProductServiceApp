@@ -1,5 +1,4 @@
 package com.productservice.response;
-
 public class DbConfigInfo {
 	private String dbUrl;
 	private String dbUserName;

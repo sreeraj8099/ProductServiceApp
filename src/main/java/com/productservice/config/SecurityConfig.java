@@ -19,7 +19,6 @@ import com.productservice.service.ProductAppUserDetailsService;
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig extends WebSecurityConfigurerAdapter{
-
 	@Autowired
 	ProductAppUserDetailsService productAppUserDetailsService;
 	

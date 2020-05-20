@@ -21,8 +21,7 @@ public class Product implements Serializable {
 	private String productcatagory;
 	@Column(name="productprice")	
 	private long productprice;
-	
-	public int getProductid() {
+		public int getProductid() {
 		return productid;
 	}
 	public void setProductid(int productid) {

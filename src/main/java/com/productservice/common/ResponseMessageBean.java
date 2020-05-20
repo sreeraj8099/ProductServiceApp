@@ -2,7 +2,6 @@ package com.productservice.common;
 
 import org.springframework.stereotype.Component;
 
-
 public class ResponseMessageBean {
 
 	private Integer code;
